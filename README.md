@@ -1,4 +1,8 @@
 # Pancakeswap v2 trading client
+
+
+<H2>People, please note that my only telegram account is named Aviddot (@aviddot), and its an useraccount, please be aware of scammers!</H2>
+
 A Pancakeswap trading client (and bot) with limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
 If you have any questions or inquiries, you can contact me via telegram: <b>aviddot</b>
