@@ -1,13 +1,9 @@
 # Pancakeswap v2 trading client
 
 
-<H2>People, please note that my only telegram account is named Aviddot (@aviddot), and its an useraccount, please be aware of scammers!</H2>
-
 A Pancakeswap trading client (and bot) with limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
-If you have any questions or inquiries, you can contact me via telegram: <b>aviddot</b>
 
-Check out the demo of my Pancakeswap sniping bot: https://github.com/aviddot/Pancakeswap-sniping-bot-demo
 
 ![alt text](https://raw.githubusercontent.com/aviddot/Pancakeswap-trading-bot/main/v1gif.gif "GIF application")
 
@@ -114,7 +110,6 @@ my_pk = ''</pre>
 <br> </br>
 <H2>Author</H2>
 
-If you have any questions you can contact me via telegram: aviddot
 <br> </br>
 Donations: 0x6B1CeA1c27Bbb1428978dC3C0423642fDa404367
 
