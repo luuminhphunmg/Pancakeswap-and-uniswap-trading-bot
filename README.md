@@ -1,6 +1,8 @@
 # Pancakeswap v2 trading client
 
 
+
+<H2> New version coming this weekend with: multiple DEXs, force buy and sell, many bug fixes and speed improvements, linux and macos version</H2>
 A Pancakeswap trading client (and bot) with limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
 
