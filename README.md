@@ -1,6 +1,6 @@
 # Pancakeswap v2 trading client
 
-<H2> I am not active on telegram, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H2>
+<H2> I am not active on telegram at the moment, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H2>
 
 
 <H2> New version coming this weekend with: multiple DEXs, force buy and sell, many bug fixes and speed improvements, linux and macos version</H2>
