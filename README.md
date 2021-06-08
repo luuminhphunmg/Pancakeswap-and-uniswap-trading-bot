@@ -1,4 +1,4 @@
-# Pancakeswap v2 trading client
+# Pancakeswap and Uniswap trading client trading client
 
 A Pancakeswap and Uniswap trading client (and bot) with limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
