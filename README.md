@@ -2,6 +2,15 @@
 
 A Pancakeswap and Uniswap trading client (and bot) with limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
+<H2>Changelog v2.0</h2>
+
+- Added multiple DEXs (Pcs v1, Uniswap v2)
+- Force Buy and Force Sell buttons, when clicked it will buy or sell with your chosen settings (excluding limit price)
+- Speed improvements
+- Many, many bug fixes (no more force closes or not working tokens)
+- Added USDT as maincoin option
+- The program now determines the name and decimals of the token automatically
+
 
 <H3> I am not active on telegram at the moment, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H3>
 
