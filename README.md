@@ -41,7 +41,7 @@ my_address = ''
 my_pk = ''</pre>
 
 
-3. Run "pancakeswap_bot.exe"
+3. Run "tradingbot.exe"
 
 - Make sure configfile.py and bot.exe are in the same folder.
 
