@@ -12,7 +12,7 @@ A Pancakeswap and Uniswap trading client (and bot) with limit orders, stop-loss,
 - The program now determines the name and decimals of the token automatically
 
 
-<H3> I am not active on telegram at the moment, anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H3>
+<H3> I am not active on telegram at the moment (only on aviddotgithub@gmail.com right now), anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H3>
 
 
 
