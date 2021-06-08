@@ -114,6 +114,7 @@ my_pk = ''</pre>
 - Add uniswap V3 support
 - Add Linux and Mac OS executables
 - Create manual and update github text
+- Let me know what other DEX's should be added (solidity based ones only)
 
 (Depends on whether the application is used)
 
