@@ -23,6 +23,7 @@ A Pancakeswap and Uniswap trading client (and bot) with limit orders, stop-loss,
 
 - An ethereum/bsc address
 - A Windows machine (adding support for Mac OS and Linux soon) 
+- When trading on Uniswap: infura.io
 - <i>Not sure whether needed anymore: Visual C++ build tools (www.visualstudio.microsoft.com/visual-cpp-build-tools/)</i>
 
 <br> </br>
