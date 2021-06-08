@@ -13,7 +13,7 @@ A Pancakeswap and Uniswap trading client (and bot) with limit orders, stop-loss,
 <H2>Prerequisites</H2>
 
 - An ethereum/bsc address
-- A Windows machine
+- A Windows machine (adding support for Mac OS and Linux soon) 
 - <i>Not sure whether needed anymore: Visual C++ build tools (www.visualstudio.microsoft.com/visual-cpp-build-tools/)</i>
 
 <br> </br>
@@ -21,7 +21,7 @@ A Pancakeswap and Uniswap trading client (and bot) with limit orders, stop-loss,
 
 0. Read prerequisites
 
-1. Download the latest release or download "configfile.py" and "pancakeswap_bot.exe" from the repository.
+1. Download the latest release or download "configfile.py" and "tradingbot.exe" from the repository.
 
 
 2. Open "configfile.py" (with notepad for instance) and add your ethereum address and personal key at the bottom of the file between the quotation marks('').
