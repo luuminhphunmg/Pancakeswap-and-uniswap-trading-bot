@@ -1,8 +1,6 @@
 # Pancakeswap and Uniswap trading client
 
 
-Adam A
-
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
 <H2>Changelog v2.0</h2>
