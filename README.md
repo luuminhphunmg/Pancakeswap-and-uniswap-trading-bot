@@ -1,9 +1,11 @@
 # Pancakeswap and Uniswap trading client
 
 
-
-
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
+
+<H3>If you have any questions or inquiries, you can contact my support via telegram: <b><a href="https://t.me/aviddotsupport">@aviddotsupport</a></b> </H3>
+
+
 
 <H2>Changelog v2.0</h2>
 
@@ -15,12 +17,11 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 - The program now determines the name and decimals of the token automatically
 
 
-<H3> I am not active on telegram at the moment (only on aviddotgithub@gmail.com right now), anyone that claims he's me is a scammer. If you are not sure: ask whether they can edit this page and add your telegram name to the top of this page, if they cant: block them</H3>
 
 
 
 
-![alt text](https://raw.githubusercontent.com/aviddot/Pancakeswap-trading-bot/main/v1gif.gif "GIF application")
+![alt text](https://github.com/aviddot/Pancakeswap-and-uniswap-trading-bot/blob/main/v2gif.gif?raw=true "GIF application")
 
 <H2>Prerequisites</H2>
 
