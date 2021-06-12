@@ -3,7 +3,7 @@
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
-<H3>If you have any questions or inquiries, you can contact my support via telegram: <b><a href="https://t.me/aviddotsupport">@aviddotsupport</a></b> </H3>
+<H3>If you have any questions or inquiries, you can contact my support via telegram: <b><a href="https://t.me/aviddotsupport">@aviddotsupport</a> (please note: this is not the maker of the bot, it's someone who delivers the support)</b> </H3>
 
 
 
