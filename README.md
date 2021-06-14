@@ -1,6 +1,5 @@
 # Pancakeswap and Uniswap trading client
 
-Johnny Face
 
 A Pancakeswap and Uniswap trading client (and bot) with market orders, limit orders, stop-loss, custom gas strategies, a GUI and much more.
 
