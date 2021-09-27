@@ -7,7 +7,7 @@ A Pancakeswap and Uniswap trading client (and bot) with market orders, limit ord
 
 
 
-<H3>If you have any questions or inquiries, or want the full version of this bot, you can contact my support via Discord: AviddotSupport#8131 OR telegram: <a href="https://t.me/aviddotsupports">@aviddotsupports</a> or <a href="https://t.me/aviddotsupport2">@aviddotsupport2</a> <b>(please note: these are not the makers of the bot, they deliver the support)</b>. Also check out the website: www.aviddot.com </H3>
+<H3>If you have any questions or inquiries, or want the full version of this bot, you can contact my support via Discord: AviddotSupport#8131 OR telegram: <a href="https://t.me/aviddotsupports">@aviddotsupports</a> or <a href="https://t.me/aviddotsupport2">@aviddotsupport2</a> <b>(please note: these are not the makers of the bot, they deliver the support)</b>. Also check out the website: www.aviddot.us or www.aviddot.com </H3>
 
 
 
